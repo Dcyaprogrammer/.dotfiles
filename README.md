@@ -1,2 +1,2 @@
 # .dotfiles
-dotfiles for everything
+dotfiles of everything
